@@ -1,1 +1,24 @@
-{"status":"OK","callback":"https://ln.tips/.well-known/lnurlp/max_peter","tag":"payRequest","maxSendable":1000000000,"minSendable":1000,"metadata":"[[\"text/plain\",\"Pay to max@bitnode.one\"],[\"text/identifier\",\"max_peter@ln.tips\"]]","commentAllowed":2000,"payerData":{"name":{"mandatory":false},"pubkey":null,"identifier":{"mandatory":false},"email":{"mandatory":false},"auth":null},"allowsNostr":true,"nostrPubkey":"fcd720c38d9ee337188f47aac845dcd8f590ccdb4a928b76dde18187b4c9d37d"}
+{
+  "status": "OK",
+  "callback": "https://ln.tips/.well-known/lnurlp/max_peter",
+  "tag": "payRequest",
+  "maxSendable": 1000000000,
+  "minSendable": 1000,
+  "metadata": "[[\"text/plain\",\"Pay to max@bitnode.one\"],[\"text/identifier\",\"max_peter@ln.tips\"]]",
+  "commentAllowed": 2000,
+  "payerData": {
+    "name": {
+      "mandatory": false
+    },
+    "pubkey": null,
+    "identifier": {
+      "mandatory": false
+    },
+    "email": {
+      "mandatory": false
+    },
+    "auth": null
+  },
+  "allowsNostr": true,
+  "nostrPubkey": "fcd720c38d9ee337188f47aac845dcd8f590ccdb4a928b76dde18187b4c9d37d"
+}
