@@ -1,10 +1,10 @@
 {
   "status": "OK",
-  "callback": "https://ln.tips/.well-known/lnurlp/max_peter",
+  "callback": "https://sats.mobi/.well-known/lnurlp/max_peter",
   "tag": "payRequest",
   "maxSendable": 1000000000,
   "minSendable": 1000,
-  "metadata": "[[\"text/plain\",\"Pay to max@bitnode.one\"],[\"text/identifier\",\"max_peter@ln.tips\"]]",
+  "metadata": "[[\"text/plain\",\"Pay to max@bitnode.one\"],[\"text/identifier\",\"max_peter@sats.mobi\"]]",
   "commentAllowed": 2000,
   "payerData": {
     "name": {
@@ -20,5 +20,5 @@
     "auth": null
   },
   "allowsNostr": true,
-  "nostrPubkey": "fcd720c38d9ee337188f47aac845dcd8f590ccdb4a928b76dde18187b4c9d37d"
+  "nostrPubkey": "4bb1cc354560bf907f8714870f34c1df07c920768938a62c1ae40d57260134b2"
 }
