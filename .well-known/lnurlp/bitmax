@@ -2,7 +2,7 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/maxpeter/callback",
+  "callback":"https://getalby.com/lnurlp/maxpeter/",
   "metadata":"[[\"text/identifier\",\"maxpeter@getalby.com\"],[\"text/plain\",\"Sats for bitmax\"]]",
   "minSendable":1000,
   "maxSendable":500000000,
