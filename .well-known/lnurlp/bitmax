@@ -1,22 +1,22 @@
 {
-  "status":"OK",
-  "tag":"payRequest",
-  "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/maxpeter",
-  "metadata":"[[\"text/identifier\",\"maxpeter@getalby.com\"],[\"text/plain\",\"Sats for bitmax\"]]",
-  "minSendable":1,
-  "maxSendable":500000000,
+  "status": "OK",
+  "tag": "payRequest",
+  "commentAllowed": 255,
+  "callback": "https://getalby.com/lnurlp/maxpeter/callback",
+  "metadata": "[[\"text/identifier\",\"maxpeter@getalby.com\"],[\"text/plain\",\"Sats for maxpeter\"]]",
+  "minSendable": 1000,
+  "maxSendable": 10000000000,
   "payerData": {
     "name": {
-      "mandatory":false
+      "mandatory": false
     },
     "email": {
-      "mandatory":false
+      "mandatory": false
     },
     "pubkey": {
-      "mandatory":false
+      "mandatory": false
     }
   },
-  "nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
-  "allowsNostr":true
+  "nostrPubkey": "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+  "allowsNostr": true
 }
