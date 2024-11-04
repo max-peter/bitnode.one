@@ -3,7 +3,7 @@
   "tag": "payRequest",
   "commentAllowed": 255,
   "callback": "https://getalby.com/lnurlp/la_aldea/callback",
-  "metadata": "[[\"text/identifier\",\"la_aldea@getalby.com\"],[\"text/plain\",\"Sats for la_aldea\"]]",
+  "metadata": "[[\"text/identifier\",\"la_aldea@getalby.com\"],[\"text/plain\",\"Sats for La Aldea\"]]",
   "minSendable": 1000,
   "maxSendable": 10000000000,
   "payerData": {
