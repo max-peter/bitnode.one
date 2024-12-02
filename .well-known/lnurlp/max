@@ -1,24 +1,22 @@
 {
   "status": "OK",
-  "callback": "https://sats.mobi/.well-known/lnurlp/bitmaxone",
   "tag": "payRequest",
-  "maxSendable": 1000000000,
+  "commentAllowed": 255,
+  "callback": "https://getalby.com/lnurlp/max/callback",
+  "metadata": "[[\"text/identifier\",\"max@getalby.com\"],[\"text/plain\",\"Sats for Max\"]]",
   "minSendable": 1000,
-  "metadata": "[[\"text/plain\",\"Pay to max@bitnode.one\"],[\"text/identifier\",\"bitmaxone@sats.mobi\"]]",
-  "commentAllowed": 2000,
+  "maxSendable": 10000000000,
   "payerData": {
     "name": {
-      "mandatory": false
-    },
-    "pubkey": null,
-    "identifier": {
       "mandatory": false
     },
     "email": {
       "mandatory": false
     },
-    "auth": null
+    "pubkey": {
+      "mandatory": false
+    }
   },
-  "allowsNostr": true,
-  "nostrPubkey": "aa8de34ff8b18ac3cc56decdfe56f17ec3007385993c834c9b99c839a6ffe696"
+  "nostrPubkey": "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+  "allowsNostr": true
 }
