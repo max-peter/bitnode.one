@@ -2,7 +2,7 @@
   "status": "OK",
   "tag": "payRequest",
   "commentAllowed": 255,
-  "callback": "https://getalby.com/lnurlp/max/callback",
+  "callback": "https://getalby.com/lnurlp/maxpeter/callback",
   "metadata": "[[\"text/identifier\",\"maxpeter@getalby.com\"],[\"text/plain\",\"Sats for Max (@bitnode.one)\"]]",
   "minSendable": 1000,
   "maxSendable": 10000000000,
