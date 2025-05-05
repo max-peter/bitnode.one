@@ -1,7 +1,8 @@
 {
    "names": {
-     "max": "aa8de34ff8b18ac3cc56decdfe56f17ec3007385993c834c9b99c839a6ffe696",
-     "bitmax": "aa8de34ff8b18ac3cc56decdfe56f17ec3007385993c834c9b99c839a6ffe696", 
-     "kalmar": "8e635845d0632a460abfe52aad2e1adf1188ba02bb81db8a09dde041439b1b6e"
+      "max": "aa8de34ff8b18ac3cc56decdfe56f17ec3007385993c834c9b99c839a6ffe696",
+      "bitmax": "aa8de34ff8b18ac3cc56decdfe56f17ec3007385993c834c9b99c839a6ffe696", 
+      "kalmar": "8e635845d0632a460abfe52aad2e1adf1188ba02bb81db8a09dde041439b1b6e",
+      "conil": "520cd33c959408d7ceff8a0c35fd4a17bf7cf658b8d3ed594f8457a05d5e7b20"
    }
 }
