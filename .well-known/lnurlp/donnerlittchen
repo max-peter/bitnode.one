@@ -1,0 +1,22 @@
+{
+  "status": "OK",
+  "tag": "payRequest",
+  "commentAllowed": 255,
+  "callback": "https://getalby.com/lnurlp/donnerlittchen/callback",
+  "metadata": "[[\"text/identifier\",\"donnerlittchen@getalby.com\"],[\"text/plain\",\"Sats for donnerlittchen\"]]",
+  "minSendable": 1000,
+  "maxSendable": 10000000000,
+  "payerData": {
+    "name": {
+      "mandatory": false
+    },
+    "email": {
+      "mandatory": false
+    },
+    "pubkey": {
+      "mandatory": false
+    }
+  },
+  "nostrPubkey": "004c197e4c2d6babcb4ec422a7673aff9cb62c7f63911537ae200fdfb458498a",
+  "allowsNostr": true
+}
