@@ -2,8 +2,8 @@
   "status": "OK",
   "tag": "payRequest",
   "commentAllowed": 255,
-  "callback": "https://getalby.com/lnurlp/michaelhahndesign/callback",
-  "metadata": "[[\"text/identifier\",\"michaelhahndesign@getalby.com\"],[\"text/plain\",\"Sats for Michael Hahn Design :) \"]]",
+  "callback": "https://getalby.com/lnurlp/destructive_diary/callback",
+  "metadata": "[[\"text/identifier\",\"destructive_diary@getalby.com\"],[\"text/plain\",\"Sats for destructive diary :) \"]]",
   "minSendable": 1000,
   "maxSendable": 10000000000,
   "payerData": {
